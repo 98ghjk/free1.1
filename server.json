@@ -1,0 +1,84 @@
+{
+  
+"banner" : "ca-app-pub-7056589321980881/6910391963",
+  
+"native_id" : "ca-app-pub-7056589321980881/5392477927",
+
+"intent_inter" : "ca-app-pub-7056589321980881/3658376811",
+
+"read_inter" : "ca-app-pub-7056589321980881/7406050135",
+  
+"download_inter" : "ca-app-pub-7056589321980881/7068769092",
+ 
+"download_reward" : "ca-app-pub-7056589321980881/7635497883",
+
+"coffee_reward" : "ca-app-pub-7056589321980881/4588315103",
+
+"point_reward" : "ca-app-pub-7056589321980881/4692256886",
+
+"game_reward" : "ca-app-pub-7056589321980881/5760127679",
+  
+"blog_reward" : "ca-app-pub-7056589321980881/8318024167",
+  
+"supports" : ["0066"],
+  
+"tabs": [
+"All",
+"Action",
+"Adult",
+"Drama",
+"Comedy",
+"Mature",
+"NTR",
+"School Life",
+"Romance",
+"Seinen",
+"Harem",
+"Slice of Life",
+"Vanilla"
+],
+  
+"description": [
+"ကျောင်းသားဘဝ ဇာတ်လမ်းကောင်းများ",
+"Netorare စီးရီး စုစည်းမှု",
+"အနုအယွ အချစ် ဒရာမာ စီးရီးများ"
+
+],
+  
+"parent_filter": {
+"School": "school",
+"NTR Collection": "ntr",
+"Drama Series": "drama"
+},
+  
+"path" : "https://raw.githubusercontent.com/htutkaungsan/PAID/main/server/main/",
+
+"photo_path" : "https://raw.githubusercontent.com/htutkaungsan/PAID/main/server/main/",
+
+"paid_app_link" : "https://play.google.com/store/apps/details?id=com.xc.fb",
+
+"free_app_link" : "https://drive.google.com/file/d/1cHp-UZltNLXJ2_O4Cvo-EVWdjwSC2lYZ/view?usp=sharing",
+
+"paid_app_package" :"com.xcomic.paid",
+
+"free_app_package" : "com.xc.fb",
+
+"update_link" : "https://play.google.com/store/apps/details?id=minin.ihj",
+
+"update_message" : "Play Store မှာ Update တင်ထားပါတယ်",
+  
+"is_sponsored" : false,
+  
+"sponsored_link" : "https://cover98.blogspot.com/2022/07/just-goingto-wtach.html",
+  
+"sponsored_photo" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD4etVsEXdZrt3OrnHR8Idm4Ce7VhyBoSwY4ojXYTKXxRI6yb6MQqtXrLSb13KZmyPTdBphWJQtYbUV3zBJwKTD6dz4R6S9Ji6W1TBNp7n4bnjzg7QUIRuD0SmzfWAMiFToijQ43eFXMRxykriq8S-DzZqbZBvQ5X0QxV6FpgGFzAO5QxFzjuUzGk6oA/s1600/Screen%20Shot%202022-07-15%20at%201.48.40%20AM.png",
+
+"is_update_forced" : true,
+
+"is_server_on" : true,
+  
+"is_test_server_on" : true,
+
+"version" : "2.3"
+
+}
