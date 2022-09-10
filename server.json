@@ -77,7 +77,7 @@
 
 "is_server_on" : true,
   
-"is_test_server_on" : false,
+"is_test_server_on" : true,
 
 "version" : "2.3"
 
